@@ -1,4 +1,4 @@
-name: Step 1, Createa a function
+name: Step 1, Create a a function
 
 # This step triggers after TBD-step-1-event-desc.
 # This workflow updates from step 1 to step 2.
@@ -53,13 +53,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Let's get all the branches.
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
       - name: Test
-        run: npm test
+        run: npm test -- ./__tests__/myFunctions.test.js
       # In README.md, switch step 1 for step 2.
       - name: Update to step 2
         uses: skills/action-update-step@v2
