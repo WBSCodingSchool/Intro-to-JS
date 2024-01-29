@@ -18,8 +18,9 @@ Generally speaking, a `function` is a "subprogram" that can be called by code ex
 ### :keyboard: Activity: TBD-step-1-name
 
 1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) on your computer.
-2. Checkout to a new branch called `my-functions`.
-3. Locate the `myFunctions.js` file. This is our working area.
-4. Create the body of the functions listed in the file without changing the name of the functions.
-5. Once you are ready, `push` your changes to your remote branch `git push origin my-functions`
-6. We will run some tests so, do not remove the `export` keyword before the functions! You will learn about this very very soon!
+2. Go into the repository directory.
+3. Checkout to a new branch called `my-functions`.
+4. Locate the `myFunctions.js` file. This is our working area.
+5. Create the body of the functions listed in the file without changing the name of the functions.
+6. Once you are ready, commit and `push` your changes to your remote branch `git push origin my-functions`
+7. We will run some tests so, do not remove the `export` keyword before the functions! You will learn about this very very soon!

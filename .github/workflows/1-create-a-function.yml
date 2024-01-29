@@ -31,8 +31,8 @@ jobs:
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
-  on_TBD-step-1-event:
-    name: On TBD-step-1-event
+  on_create_a_function:
+    name: On Create a function
     needs: get_current_step
 
     # We will only run this action when:
@@ -67,4 +67,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 1
           to_step: 2
-          branch_name: main
+          branch_name: my-functions
