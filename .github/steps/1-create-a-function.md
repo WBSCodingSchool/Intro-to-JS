@@ -24,3 +24,20 @@ Generally speaking, a `function` is a "subprogram" that can be called by code ex
 5. Create the body of the functions listed in the file without changing the name of the functions.
 6. Once you are ready, commit and `push` your changes to your remote branch `git push origin my-functions`
 7. We will run some tests so, do not remove the `export` keyword before the functions! You will learn about this very very soon!
+
+## What happens next?
+
+:warning: If anything goes wrong, i.e. the code you submitted fails, you will get a notification:
+ 
+![Screenshot 2024-01-29 at 19 42 20](https://github.com/WBSCodingSchool/Intro-to-JS/assets/19370560/d86499f5-ebbc-49a9-bdba-a8cbeded584e)
+
+Follow the link to the workflow that failed to find out what happened!:
+
+![CleanShot 2024-01-29 at 19 44 21](https://github.com/WBSCodingSchool/Intro-to-JS/assets/19370560/01863ac7-706c-4003-9f91-b484b5a4d2a9)
+
+
+In this case, our function returned `undefined` instead of the expected value!
+
+👍 If everything is ok, GitHub will update this page, if it doesn't wait around 20s and hit refresh!
+
+
