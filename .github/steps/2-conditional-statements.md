@@ -29,13 +29,12 @@ if (isEmpty(field)) {
 
 ### :keyboard: Activity: create your control flow
 
-1. From your current `my-functions` branch pull the changes from the origin `git pull origin my-functions`. We need to do this to synchronise with the current step! :warning:
-2. Locate the `myConditionals.js` file. This is our working area.
-3. Checkout to a new branch called `my-conditionals`.
-4. Locate the `myConditionals.js` file. This is our working area.
-5. Create the body of the functions listed in the file without changing the name of the functions.
-6. Once you are ready, commit and `push` your changes to your remote branch `git push origin my-conditionals`
-7. We will run some tests so, do not remove the `export` keyword before the functions! You will learn about this very very soon!
+1. From your current `my-functions` branch, pull the changes from the origin `git pull origin my-functions`. We need to do this to synchronise with the current step! :warning:
+2. Checkout to a new branch called `my-conditionals`.
+3. Locate the `myConditionals.js` file. This is our working area.
+4. Create the body of the functions listed in the file without changing the name of the functions.
+5. Once you are ready, commit and `push` your changes to your remote branch `git push origin my-conditionals`
+6. We will run some tests so, do not remove the `export` keyword before the functions! You will learn about this very very soon!
 
 ## What happens next?
 
