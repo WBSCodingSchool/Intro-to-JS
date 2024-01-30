@@ -2,6 +2,8 @@
 
 _Congratulations!, you've completed these exercises!_
 
+![yes](https://media1.tenor.com/m/xBCjoy1VnPUAAAAd/ken-dance.gif)
+
 Here's a recap of all the tasks you've accomplished in your repository:
 
 - Creating and checking out to new branches
